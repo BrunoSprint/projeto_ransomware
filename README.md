@@ -13,5 +13,5 @@ Neste projeto foi Criptografado o arquivo "texto.txt"
 ![teste.txt Criptografado](criptografado.png)
 
 # Descriptografado
-![teste.txt Descriptografado](descritografado.png)
+![teste.txt Descriptografado](descriptografado.png)
 
