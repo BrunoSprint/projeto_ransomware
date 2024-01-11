@@ -7,8 +7,8 @@ pip install pyaes
 Neste projeto foi Criptografado o arquivo "texto.txt"
 
 # Criptografado
-![teste.txt Criptografado](criptografado.PNG)
+![teste.txt Criptografado](criptografado.png)
 
 # Descriptografado
-![teste.txt Descriptografado](descriptografado.PNG)
+![teste.txt Descriptografado](descriptografado.png)
 
